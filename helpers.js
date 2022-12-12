@@ -2,4 +2,7 @@ function getName(name) {
   return name;
 }
 
-exports.getName = getName;
+exports.getName = 
+
+
+getName;

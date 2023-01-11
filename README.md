@@ -53,3 +53,6 @@ npx husky-init && npm install
 ## Helpful Link
 
 https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
+
+Clean Code:
+https://myas92.medium.com/clean-code-tips-in-javascript-typescript-aabcc4bcb96c

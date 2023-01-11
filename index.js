@@ -1,2 +1,3 @@
-const x = require("./helpers");
-console.log(x.getName("asdasd"));
+const helper = require("./helper");
+
+console.log(helper.getIp());

@@ -2,6 +2,7 @@
 
 ## Install
 
+
 ```
 npx husky-init && npm install
 ```
